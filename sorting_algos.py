@@ -1,6 +1,3 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 cod
-
 arr = [43,3,12,2,1]
 
 
